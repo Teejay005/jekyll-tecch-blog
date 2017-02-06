@@ -5,4 +5,3 @@ permalink: /about/
 ---
 
 About page
-password: whdjdss4sureehdhdhd
