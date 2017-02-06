@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: tech blog
 email: tunji.sunmonu@gmail.com
-description: > # tech blog for cloud
+description: > # tech blog for docker,cloud,iaas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tunjisunmonu
+github_username:  Teejay005
 
 # Build settings
 markdown: kramdown
