@@ -4,7 +4,6 @@ title:  "Setup AWS IAM USERS and permissions using ansible and AWS-CLI"
 date:   2017-02-06 09:26:12 +1000
 categories: jekyll update
 ---
-## Setup AWS IAM USERS and permissions using ansible and AWS-CLI
 
 ### Introduction
 
